@@ -17,7 +17,7 @@ function Navbar() {
                     <ul class="font-medium flex justify-around flex-col space-x-4 p-9 md:p-0 mt-4 border border-gray-100 rounded-lg bg-gray-50 md:flex-row md:space-x-8 rtl:space-x-reverse md:mt-0 md:border-0 md:bg-white dark:bg-gray-800 md:dark:bg-brown dark:border-gray-700">
                         <li>
                             <Link 
-                                to="/" 
+                                to="/home" 
                                 class="block text-2xl py-2 px-3 text-black bg-blue-700 rounded md:bg-transparent md:text-black md:p-0 dark:text-black md:dark:text-orange-500 md:dark:hover:text-blue-500" aria-current="page"
                                 >Home
                             </Link>
